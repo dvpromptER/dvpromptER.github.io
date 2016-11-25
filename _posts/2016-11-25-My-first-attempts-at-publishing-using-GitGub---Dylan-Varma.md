@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge</td>
+    <td>I had no knowledge </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>I think that I did as I was able to complete everything I had to do.</td>
   </tr>
 </table>
 
