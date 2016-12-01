@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge </td>
+    <td>I had no knowledge. This is the first time I have used github. </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully create the infrastructure so that my Google Doc template would publish.</td>
+    <td>To successfully create the infrastructure so that my Google Doc template would publish. Also to understand how to use github well and efficiently</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
