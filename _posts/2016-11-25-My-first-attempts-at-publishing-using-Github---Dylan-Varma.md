@@ -1,5 +1,5 @@
 ---
-title: My first attempts at publishing using Github - Dylan Varma
+title: second lesson
 layout: post
 author: dylan.varma
 permalink: /my-first-attempts-at-publishing-using-github---dylan-varma/
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge. This is the first time I have used github. </td>
+    <td>I had no knowledge </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully create the infrastructure so that my Google Doc template would publish. Also to understand how to use github well and efficiently</td>
+    <td>To successfully create the infrastructure so that my Google Doc template would publish.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,20 +41,21 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I mainly learnt be focusing on the task ahead and listening to the instructions given. </td>
+    <td>Mainly by focused listening and watching a demonstration.k</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>At the start, I think I did well.I was able to do all the things I needed to do. I did struggle a little bit as the lesson went on because the screens that we were told to go on had a lot of files and information that I didn't need to know yet. This confused me a little, but I persevered and I got through it. The fact that this was my first attempt at github limited my learning. I knew nothing about it. From now on, I need to practice how to get to the right page quickly on github. It will help me in the future. I think I should ask more questions in class and this will also help me.
+    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
 
+This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I think for next time, I should ask more questions in class. I should also make notes on what we are doing and that will help me in further lessons. I should also practice at home.</td>
+    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
   </tr>
 </table>
 
