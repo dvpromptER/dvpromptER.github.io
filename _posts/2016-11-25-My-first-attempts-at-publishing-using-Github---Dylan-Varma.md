@@ -1,15 +1,15 @@
 ---
-title: second lesson
+title: second blog
 layout: post
 author: dylan.varma
-permalink: /my-first-attempts-at-publishing-using-github---dylan-varma/
+permalink: /second lesson using github---dylan-varma/
 source-id: 1qPv3jABvPm9oxt33MWteDV86Dysnj3jLNg5EBP2WqLw
 published: true
 ---
 <table>
   <tr>
     <td>Title:  </td>
-    <td>My first attempts at publishing using GitHub  </td>
+    <td>Second lesson using github  </td>
     <td> Date:  </td>
     <td>07/09/16</td>
   </tr>
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge </td>
+    <td> Know a little bit of knowledge </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
