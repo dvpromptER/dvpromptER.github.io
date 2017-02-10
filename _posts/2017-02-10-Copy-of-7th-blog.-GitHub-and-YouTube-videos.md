@@ -17,7 +17,7 @@ published: true
    
 </table>
 
-<iframe style="border-radius: 3px;" height="250px" width: 100% src="https://docs.google.com/spreadsheets/d/1S5wyT_cBVbbucXs5K-mCF3Nc3fwzY8glZZF7WcUcRq4/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe style="border-radius: 3px;" height="250px" src="https://docs.google.com/spreadsheets/d/1S5wyT_cBVbbucXs5K-mCF3Nc3fwzY8glZZF7WcUcRq4/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <table>
   <tr>
