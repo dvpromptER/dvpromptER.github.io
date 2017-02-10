@@ -2,7 +2,7 @@
 title: 8th blog. improving electronic shop
 layout: post
 author: dylan.varma
-permalink: /copy-of-7th-blog.-github-and-youtube-videos/
+permalink: /8th blog. improving shop/
 source-id: 1lEC6Uw8akVsjcRdGqNlEWnaUoGCRmSHyEq0_bUQ6xRI
 published: true
 ---
