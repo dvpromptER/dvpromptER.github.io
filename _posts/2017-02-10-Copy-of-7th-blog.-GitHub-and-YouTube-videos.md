@@ -1,5 +1,5 @@
 ---
-title: Copy of 7th blog. GitHub and YouTube videos
+title: 8th blog. improving electronic shop
 layout: post
 author: dylan.varma
 permalink: /copy-of-7th-blog.-github-and-youtube-videos/
@@ -22,7 +22,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>No knowledge on how to upload videos.</td>
+    <td>quite a bit of knowledge on google sheets.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -45,15 +45,14 @@ published: true
   <tr>
     <td>
 
-I did was what I was able to do and I followed the instructions well. I think that even though I followed the instructions well, I just wasn't fast enough.</td>
+I applied previous knowledge and worked out things for myslef</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
     <td>
-
-I think that I should listen more carefully when watching the video so I would be quicker in embedding the video.</td>
+I think that I need to explore google sheets more and i should see how much I can do at home.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
@@ -61,7 +60,7 @@ I think that I should listen more carefully when watching the video so I would b
   <tr>
     <td>
 
-I think I need to write the code down when shown it so it will help me if I forget it in the future. Also I should watch some videos to help me develop my skills.</td>
+I think I should actually do some research at home on how to make the most out of google sheets.</td>
   </tr>
 </table>
 
